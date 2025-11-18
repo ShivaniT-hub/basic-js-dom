@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    color:white
+}
+main{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+button{
+height: 50px;
+width:165px;
+margin:40px;
+background-color:red;
+border-radius: 2px;
+border: 1px solid black;
+align-items: center;
+justify-content: center;
+}
+
